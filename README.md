@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @elmarcoder
+- 👀 I am interested in many things
+- 🌱 I'm learning everything I can think of right now
+- 💞️ I don't want to collaborate on anything 😎
+- 📫 How to reach me: by smoke 😁
