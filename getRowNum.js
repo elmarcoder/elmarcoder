@@ -4,3 +4,6 @@ function getRowNum() {
     e.pop();
     return e.pop();
 }
+
+// CALL FOR GETTING LINE NUMBER
+// getRowNum()
